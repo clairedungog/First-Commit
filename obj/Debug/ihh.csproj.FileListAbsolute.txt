@@ -1,0 +1,17 @@
+D:\ihh\ihh\bin\Debug\ihh.exe.config
+D:\ihh\ihh\bin\Debug\ihh.exe
+D:\ihh\ihh\bin\Debug\ihh.pdb
+D:\ihh\ihh\obj\Debug\ihh.csproj.AssemblyReference.cache
+D:\ihh\ihh\obj\Debug\ihh.csproj.SuggestedBindingRedirects.cache
+D:\ihh\ihh\obj\Debug\ihh.Form1.resources
+D:\ihh\ihh\obj\Debug\ihh.MenuScript.resources
+D:\ihh\ihh\obj\Debug\ihh.Properties.Resources.resources
+D:\ihh\ihh\obj\Debug\ihh.csproj.GenerateResource.cache
+D:\ihh\ihh\obj\Debug\ihh.csproj.CoreCompileInputs.cache
+D:\ihh\ihh\obj\Debug\ihh.exe
+D:\ihh\ihh\obj\Debug\ihh.pdb
+D:\ihh\ihh\obj\Debug\ihh.Login.resources
+C:\Users\HomePC\Documents\ihh\ihh\obj\Debug\ihh.csproj.AssemblyReference.cache
+C:\Users\HomePC\Documents\ihh\ihh\obj\Debug\ihh.csproj.SuggestedBindingRedirects.cache
+C:\Users\HomePC\Documents\ihh\ihh\obj\Debug\ihh.exe
+C:\Users\HomePC\Documents\ihh\ihh\obj\Debug\ihh.pdb
